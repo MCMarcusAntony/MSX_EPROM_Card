@@ -1,4 +1,4 @@
-# MSX_EPROM_Card
+# MSX_EPROM_Card ( Portuguese )
 
 As EPROMs testadas foram:
 
