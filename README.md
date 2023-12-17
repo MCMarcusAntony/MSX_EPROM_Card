@@ -1,6 +1,4 @@
 # MSX_EPROM_Card
-Notas:
-======
 
 As EPROMs testadas foram:
 32K - 27C256
