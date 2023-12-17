@@ -19,14 +19,14 @@ Configuração dos Jumpers
 ========================
 
 - EPROM de 32K com ROM de 32K, fechar os jumpers:
-  P1+
-  CS12
+  P1+ / 
+  CS12 / 
   P27->A15
 
 
 
 - EPROM de 32K com 2 ROMs de 16K, fechar os jumpers: 
-  P1+
+  P1+ / 
   CS12
   - Para a primeira ROM de 16K:
   P27-
@@ -36,7 +36,7 @@ Configuração dos Jumpers
  
 
 - EPROM de 32K com 2 ROMs basic de 16K, fechar os jumpers:
-  P1+
+  P1+ / 
   CS2
   - Para a primeira ROM basic de 16K:
   P27-
@@ -46,14 +46,14 @@ Configuração dos Jumpers
   
 
 - EPROM de 64K com ROM de até 64K sem mapeamento, fechar os jumpers:
-  P1->A15
-  RD
-  P27-A14
+  P1->A15 / 
+  RD / 
+  P27->A14
   
 
   
 - EPROM de 64K com 2 ROMs de 32K, fechar os jumpers:
-  CS12
+  CS12 / 
   P27->A15
   - Para a primeira ROM de 32K:
   P1-
