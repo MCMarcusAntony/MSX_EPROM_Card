@@ -1,7 +1,9 @@
 # MSX_EPROM_Card
 
 As EPROMs testadas foram:
+
 32K - 27C256
+
 64K - 27C512
 
 O capacitor de 100uF é eletrolítico, nos testes foi usado um capacitor de 16V, o capacitor de 100nF é de disco cerâmico.
